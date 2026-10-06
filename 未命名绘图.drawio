@@ -108,7 +108,7 @@
         <mxCell id="J_cXwxSJdUJKTFf-yZZ6-11" parent="Jn58c2q4yP5dH8515-9K-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
           <mxGeometry height="30" width="60" x="460" y="307.5" as="geometry" />
         </mxCell>
-        <mxCell id="J_cXwxSJdUJKTFf-yZZ6-13" parent="Jn58c2q4yP5dH8515-9K-7" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="缓存到redis&lt;br&gt;使用Feign&lt;br&gt;重试发送" vertex="1">
+        <mxCell id="J_cXwxSJdUJKTFf-yZZ6-13" parent="Jn58c2q4yP5dH8515-9K-7" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="缓存到Redis&lt;br&gt;使用Feign&lt;br&gt;重试发送" vertex="1">
           <mxGeometry height="70" width="73" x="270" y="482.5" as="geometry" />
         </mxCell>
         <mxCell id="J_cXwxSJdUJKTFf-yZZ6-16" parent="Jn58c2q4yP5dH8515-9K-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
